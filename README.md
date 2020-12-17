@@ -1,6 +1,6 @@
 # Company Stock Investments
 
-Here is company's Stock and investment details for the last 8 years. We need to predict the values for the upcoming years. Apply time series techniques to do the predictions. Also, follow the proper procedure to divide your data between training, validation and testing dataset.  <br> 
+Here is company's Stock and investment details for the last 8 years. We need to predict the values for the upcoming years. Apply time series techniques to do the predictions.<br> 
 
 <b>Stock detail years:</b> 2009 - 2017 <br>
 <b>Prediction years:</b>  2018 to 2021 <br>
